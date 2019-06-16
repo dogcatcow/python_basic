@@ -67,7 +67,7 @@ elif no[0] < no[1]:  # a<b
 # if you have many values in field -> use class?
 # if와 elif에 return 안붙여도됨.
 # 에러시: ctrlshfitb  / 우클릭 run in terminal / 상단메뉴 run w/o debug?
-
+'''
 def idMaker(a):
     b = a[6+1]
     if b == "1" or b == "3":
@@ -84,7 +84,7 @@ idMaker(hito1)
 idMaker(hito2)
 idMaker(hito3)
 idMaker(hito4)
-
+'''
 
 # 6 ~ 10 반복문 사용(while 또는 for)
 
@@ -97,14 +97,25 @@ print(q3[0:2], q3[3])
 '''
 
 # 7. 1부터 100까지 자연수 중 '홀수'만 한 라인으로 출력 하세요.
+#cf. 선택자! Cf. HTML-CSS. 여기서는 홀수!!선택자!!를 몰라서 진행불가?
+#마찬가지로, 인덱싱도 결국은 선택자 관련.
+#클래스와 메소드호출 등도 결국 선택자 관련?
 
 # 8. 아래 리스트 항목 중에서 5글자 이상의 단어만 출력하세요.
 q4 = ["nice", "study", "python", "anaconda", "!"]
+#cf. 선택자! Cf. HTML-CSS. 여기서는 홀수!!선택자!!를 몰라서 진행불가?
+
 
 # 9. 아래 리스트 항목 중에서 소문자만 출력하세요.
 q5 = ["A", "b", "c", "D", "e", "F", "G", "h"]
+#cf. 선택자! Cf. HTML-CSS. 여기서는 홀수!!선택자!!를 몰라서 진행불가?
 
 
 # 10. 아래 리스트 항목 중에서 소문자는 대문자로 대문자는 소문자로 출력하세요.
 q6 = ["A", "b", "c", "D", "e", "F", "G", "h"]
+#cf. 선택자! Cf. HTML-CSS. 여기서는 홀수!!선택자!!를 몰라서 진행불가?
+#cf. HTML-CSS의 uppecase 스타일링?
+'''
+이상 결론: ~는 다른언어의 ~의 해당한다고 느낄 때가 많음.
+결국 프로그래밍은 요소선택과 제어라서?
 '''
